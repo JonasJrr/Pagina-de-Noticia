@@ -1,0 +1,83 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+
+.barra1{
+    background-color: orange;
+    font-size: 20px;
+    text-align: center;
+    padding: 8px;
+    border-bottom: black solid 7px;
+}
+
+.container{ 
+    max-width: 900px;
+    margin: auto;
+    padding: 30px;
+}
+
+.titulo{
+    text-shadow: 2px 2px orange;
+    font-size: 50px;
+    line-height: 58px;
+}
+.subtitulo{
+    font-weight: normal;
+    font-size: 20px;
+}
+
+.autor{
+    font-size: 12px;
+}
+
+.data{
+    font-weight: normal;
+}
+
+.icones{
+    width: 35px;
+    padding-top: 25px;
+    padding-right: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: orange;
+    font-weight: bold;
+}
+
+.conteudo{
+    max-width: 600px;
+    margin: auto;
+    font-weight: normal;
+    line-height: 25px;
+}
+
+figure{
+    padding: 0;
+    margin: 0;
+    font-size: 12px;
+}
+
+img{
+    width: 100%;
+}
+
+.barra2{
+    background-color: orange;
+    font-size: 20px;
+    text-align: center;
+    padding: 8px;
+    border-top: black solid 7px; 
+}
+
+p{
+    line-height: 25px;
+}
+
+.h2sombralaranja{
+    text-shadow:  2px 2px orange;
+}
